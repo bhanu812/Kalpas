@@ -1,0 +1,21 @@
+Employee Code,First Name,Last Name,email,Job Title,Department,Location,Date Hired
+E0001,Anthony ,Taylor,test1@test.com,Engineer,Engineering,Los Angeles,2/11/2000
+E0002,Charles,Billings,test1@test.com,Manager,Marketing,Los Angeles,8/13/2002
+E0003,Chris,Pounds,test1@test.com,Engineer,Engineering,Seattle,3/24/1999
+E0004,Clark,Bickerson,test1@test.com,Manager,Marketing,Los Angeles,1/29/2002
+E0005,Douglas,Williams,test1@test.com,Engineer,Engineering,Portland,10/15/1999
+E0006,Ivan,Siberstein,test1@test.com,Manager,Marketing,Los Angeles,9/11/2000
+E0007,Jeffrey,Jones,test1@test.com,Engineer,Engineering,Los Angeles,12/26/1998
+E0008,Joe,Morrison,test1@test.com,Manager,Marketing,Seattle,1/19/2002
+E0009,John,Foster,test1@test.com,Engineer,Engineering,Seattle,12/22/2000
+E0010,Kurt,Kamichoff,test1@test.com,Manager,Marketing,Seattle,7/21/2001
+E0011,Michael,Hayden,test1@test.com,Engineer,Engineering,Los Angeles,8/17/2002
+E0012,Phillip,Todd,test1@test.com,Manager,Marketing,Seattle,3/12/2001
+E0013,Richard,Card,test1@test.com,Engineer,Engineering,Portland,10/15/1999
+E0014,Rick,Fogerty,test1@test.com,Manager,Marketing,Seattle,4/13/1999
+E0015,Robert,Miller,test1@test.com,Engineer,Engineering,Portland,4/8/2000
+E0016,Stephen,Katz,test1@test.com,Manager,Marketing,Portland,2/9/2001
+E0017,Steven,Carter,test1@test.com,Engineer,Engineering,Los Angeles,7/10/2000
+E0018,Thomos,Abbot,test1@test.com,Manager,Marketing,Los Angeles,12/26/2001
+E0019,Tom,Browne,test1@test.com,Engineer,Engineering,Los Angeles,1/22/1999
+E0020,Chris,Sumaker,test1@test.com,Manager,Marketing,Seattle,3/8/2003
