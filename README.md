@@ -7,7 +7,7 @@
 # Install dependencies for server
 npm install
 
-# Run the seeder file importing csv data
+# Run the seeder file for importing csv data
 node seeder
 
 # Run the server with 
